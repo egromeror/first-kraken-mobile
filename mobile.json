@@ -1,0 +1,6 @@
+{
+    "type": "singular",
+    "apk_path": "com.binteraktive.kniffel.live.apk",
+    "apk_package": "com.binteraktive.kniffel.live",
+    "apk_launch_activity": ".MainActivity_"
+}
